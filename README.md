@@ -53,7 +53,7 @@ the user is responsible.
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AdithyanMS/PinkyMwol-QR#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AdithyanMS/PinkyMwol-QR-2)
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/afnanplk/f34ed6b03429ba67d46c709f841f69f4)   
  
@@ -63,7 +63,7 @@ the user is responsible.
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
-bash <(curl -L https://replit.com/@AdithyanMS/PinkyMwol-QR#index.js)
+bash <(https://replit.com/@AdithyanMS/PinkyMwol-QR-2)
 ``` 
 
             
